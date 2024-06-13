@@ -1,0 +1,5 @@
+#!/bin/env sh
+
+cd ..
+echo pwd
+cp * ~ -r

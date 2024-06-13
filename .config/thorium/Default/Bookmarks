@@ -1,0 +1,101 @@
+{
+   "checksum": "bb6ebe8c7ef0b0db3075bc7f0d928cb3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13331599450000000",
+            "date_last_used": "13360483177405284",
+            "guid": "20122a49-5485-44bd-95cb-6042975eac8d",
+            "id": "5",
+            "name": "icxd (icxd) / Repositories",
+            "type": "url",
+            "url": "https://github.com/icxd?tab=repositories"
+         }, {
+            "date_added": "13339126735000000",
+            "date_last_used": "13361507208125489",
+            "guid": "21923cba-70d4-442b-ae46-65ce08a5c3b4",
+            "id": "7",
+            "name": "kernig100.pdf",
+            "type": "url",
+            "url": "http://www.cs.unibo.it/~martini/PP/kernig100.pdf"
+         }, {
+            "date_added": "13339182471000000",
+            "date_last_used": "13361107420285843",
+            "guid": "a000026a-ee9f-45d1-a482-368da941505c",
+            "id": "8",
+            "name": "techreport.dvi - CSD-97-946.pdf",
+            "type": "url",
+            "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/CSD-97-946.pdf"
+         }, {
+            "date_added": "13339223889000000",
+            "date_last_used": "13358112195322607",
+            "guid": "68375b51-ec05-42b9-8496-f654dd095c5c",
+            "id": "9",
+            "name": "Intel® Intrinsics Guide",
+            "type": "url",
+            "url": "https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html#"
+         }, {
+            "date_added": "13339444293000000",
+            "date_last_used": "0",
+            "guid": "53d8791f-a01c-4c84-b2cf-615bd077b369",
+            "id": "10",
+            "name": "Hello | King “Emhyr” Lanchester",
+            "type": "url",
+            "url": "https://kingemhyr.github.io/blog/"
+         }, {
+            "date_added": "13340057996000000",
+            "date_last_used": "13359486185708089",
+            "guid": "b4fa5377-8331-4d82-b349-7b705b58f6d3",
+            "id": "12",
+            "name": "Linux kernel coding style — The Linux Kernel documentation",
+            "type": "url",
+            "url": "https://www.kernel.org/doc/html/v4.10/process/coding-style.html"
+         }, {
+            "date_added": "13340519500000000",
+            "date_last_used": "13359918393932996",
+            "guid": "ea801c9e-bfc7-4677-b7e8-774436157a4f",
+            "id": "13",
+            "name": "AP Computer Science A Course Description - ap-computer-science-a-course-description.pdf",
+            "type": "url",
+            "url": "https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-a-course-description.pdf"
+         }, {
+            "date_added": "13340605427000000",
+            "date_last_used": "0",
+            "guid": "d6cc795a-9d95-458d-bdba-988adeacde5e",
+            "id": "14",
+            "name": "Talk: Video Games and the Future of Education - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=qWFScmtiC44"
+         } ],
+         "date_added": "13357862475738762",
+         "date_last_used": "0",
+         "date_modified": "13340605427000000",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13357862475738764",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13357862475738766",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ct4BCr0BCIiBAhK2ASAAkgGwAQpnCg5jaHJvbWVfc3luY19ibRIFNTEhYm0aEgn0V1h/vBoGABH0V1h/vBoGACIxCQuKRn+8GgYAEAYZ893gajbGruggASoZNTEhYm06OTUzMDk3OTgwMDAyNjMzMTA3NClSZlh/vBoGAApFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCYDfZnq8GgYAEYDfZnq8GgYAKe1kWH+8GgYAMIC/m9PH14YDEgAqGE9mTmZQN3d0ZHRDMFlJUDYweS9wZ3c9PUgDEusBCAUS5gEKHDdwZVdIQ3NqSjF2RmlrakQ3UTQwd0xNWmtXQT0SZlo6QURxdEFaeWJJRkhkUE9PQkFZNElPZ0tDZ2kzODBYOUdiUTJuVHBDK09GUlVseEsxQk1ySnVGSHhZcjZhdExudmtFZjVicFVEeGQzTzlwd1R0c2FTRUtreGdjUUF2a21xNVE9PRgAIAMoAzCLlJr6x9eGAzjVtf/AtjFAl/zy+4AyShxNaXliNzVONUJFYXlub25ETXIvVUw4OE9PdzQ9Wh4iHDkxTm8wWkhvWk1xVmtBaHlkdG9Obm85WTBlTT1lk1RDwhLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlRZTZ3aEhzWERSSExPMk4wVEZLWWozd3pMRHIyVUNNUDdSTmprd3praFVsUTNFNEpjMllwY0owOHJEaTZPYmd1SWFRcnBzVUlSdGtFNjZZS1VzV21MWDd5VEFBPT0YACAAKAAwvMGfh5fKhQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgJEucBChw2U3l5ang4eXBrVGlhdEsvd3ZWYnZqZHR1U2M9EmZaOkFEcXRBWnliSUZIZFBPT0JBWTRJT2dLQ2dpMzhsZXlZLzgwTTYrbDlMZ3pLbkdidmVVaGtuYWhsNjJKU3VQNGx0QkNYMksxSHJWcTJTSlhIUUo0czh1Y0d5ZEFMaFpiTkdBPT0YACACKAIwi5Sa+sfXhgM41bX/wLYxQJf88vuAMkocSm03SldXS2tvZ1gvemNadE1zVGZETWMyZEVNPVofIh3sKzdidG9Pc1o2YXBrMzFJM0djZGlsQjZDQTFvPWV5NRK2EqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeGtSazJpR0ZKNkRKU2RQWnRrbDdPWHVvY2d0TElKbHdncUZDTEZxY3JzSXNPclRGU0N1dFMvOElOWmw2SGNPb2ZEbUxBbhgAIAAoADC8wZ+Hl8qFAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEu0BCA4S6AEKHDhIVjE0QWlnL1lJazBFQ1Y5WUgyZ3pmSzB3bz0SZlo6QURxdEFaeWJJRkhkUE9PQkFZNElPZ0tDZ2kzOGpzWHNJRm1BSFVTaFloWTd3bmdHWW81RTZtbmwwbGMzaGoyckNuTm55MFhaMTRwR2kzaUFLZWUxaXRnQnFCMW9DaDVYWXc9PRgAIAAoADDVn7zsq56DAzjWtf/AtjFA1rX/wLYxShxSL2pmZWJ5OGdYN0lKaVRRVGtQTnp2SDZFUUE9WiAiHv+hOExBRmQxVjNpcXJTWFBiakxESEtTQkR4TGIwPWUXRVmFEuwBCAwS5wEKHDZmbGhxS3lmTzZ5TnJxWGhXN0l4YXZUUTlwMD0SZlo6QURxdEFaeWJJRkhkUE9PQkFZNElPZ0tDZ2kzOHVJVTlOeU9KT2tZL3dHRUZ4TGRZSy8vSisrYm5paTBiamNsQjhaNFJPY0liSlo4SkJVd3VyNTlVTWhkU1lZbUQ2TmF4a1E9PRgAIAAoADDmiP3j65GCAzjVtf/AtjFA1bX/wLYxShw5K01UMjBUSEJlNWo5azUyRHR2bkdoYzBXQnM9Wh8iHf02bFVCMk9kSUdJaFJPMjV5MFJYQVZSMHg5YTg9ZQAAAAAS7AEIDRLnAQocZTArZXY2dXNnWHV3QWd4VkN2TFFGNytmVzdrPRJmWjpBRHF0QVp5YklGSGRQT09CQVk0SU9nS0NnaTM4ek5NVHFLbEM4QXFoT0FSeHlJY0RKcGtaRnBINGpITzVvYkM2TGNhSnNvMlA1cllBampYU3lRbkdGWkxBSlJXc3phSkFnZz09GAAgACgAMOaI/ePrkYIDONa1/8C2MUDWtf/AtjFKHDQ1aU5lNGZkd2tEQ3N1YnFGV3hySmp1dEhqUT1aHyId/0NFVWx4ZzlnS1JTdXlQalJxUloxVE80T2hVQT1lAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnpiNVFCYzZTRi9pQThRcTliRjNQclFQMUFaTDJYMndSZmk5WTgvYTJ5YXFLU0lweWt4dHlrdjlKQnRVcU84UXNpVjBBRWNmbVY3bDB1YXdYdit0WTZSVUwzdkFnPT0YACAAKAAwvMGfh5fKhQM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLsAQgKEucBChxuMTNkK1lYdDdmbmpDNlR3Z2d4SXV0SlJUMU09EmZaOkFEcXRBWnliSUZIZFBPT0JBWTRJT2dLQ2dpMzgzS2Q5cjZHTzdWM1pTVUdkUml3a0tUODJ6bTh3dlZ3WXYrVm1JYi92elpYOHB6bEtUTFRWWVZaRkdZa3RndktuRjEvcUtRPT0YACAAKAAw5oj94+uRggM41bX/wLYxQNW1/8C2MUocTk94d2p0K0F6THZnNnJtaGwzeVJhcDFyb25jPVofIh32b0lobjZqNDlobEVhRlFlUTU2UE53NTBYUzVRPWUAAAAAEuwBCAcS5wEKHGh5MW9PMlRtT0xHTjlEWGtNQkdVNU9lRE1NTT0SZlo6QURxdEFaeWJJRkhkUE9PQkFZNElPZ0tDZ2kzODcxQlhJcTlUVGhCVkg1ZlNkZS9aVngzTlpiRHNZSGI3MzQzK09rTW9YWDFNeEFLR2ZCbjVJVnpyOHk1MzNXQ2NseERQOWc9PRgAIAAoADDmiP3j65GCAzjVtf/AtjFA1bX/wLYxShxhbUR6TzJhV1plWUYyTStOVVRaTXdMaTVsdms9Wh8iHbJiQ0J2eTl4SE9PaDdkWFM0Z2xjaVluai91ZGc9ZQAAAAAS7AEICBLnAQocV0RBRmIzcWh6azgydlBUZ3hKdGhIMDltUXkwPRJmWjpBRHF0QVp5YklGSGRQT09CQVk0SU9nS0NnaTM4WkF0N2NSRWtkS3haWHNScnBjZ0xwWXc0VldpTmhqL3NVZ0xQOThZRDMyNXBmamdTQXNCcXBmbzRNaWpIMGJnNzNuSXJRdz09GAAgAigCMIuUmvrH14YDONW1/8C2MUCX/PL7gDJKHEtMMVdjcmhwOXJhcnp5VG55dE0zcWJKVmQ3Zz1aHyId2UEyNTJUM1lXb1hOb1llb1RQNUdvMEhjQjdkYz1lfZwf0TABOAA=",
+   "version": 1
+}

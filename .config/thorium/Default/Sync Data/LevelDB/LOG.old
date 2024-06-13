@@ -1,0 +1,6 @@
+2024/06/12-22:50:50.467 2ce Reusing MANIFEST /home/emhyr/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/12-22:50:50.471 2ce Recovering log #3
+2024/06/12-22:50:50.472 2ce Reusing old log /home/emhyr/.config/thorium/Default/Sync Data/LevelDB/000003.log 
+2024/06/12-23:06:29.815 2ce Level-0 table #5: started
+2024/06/12-23:06:29.818 2ce Level-0 table #5: 121912 bytes OK
+2024/06/12-23:06:29.819 2ce Delete type=0 #3

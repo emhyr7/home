@@ -1,0 +1,15 @@
+theme = 'gruvbox_dark_hard'
+
+[editor]
+scrolloff = 8
+shell = ['fish', '-c']
+line-number = 'relative'
+color-modes = true
+auto-pairs = false
+
+[editor.cursor-shape]
+insert = 'bar'
+select = 'hidden'
+
+[editor.smart-tab]
+enable = false

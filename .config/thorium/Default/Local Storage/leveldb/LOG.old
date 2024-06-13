@@ -1,0 +1,12 @@
+2024/06/12-22:50:50.476 4 Reusing MANIFEST /home/emhyr/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/12-22:50:50.478 4 Recovering log #3
+2024/06/12-22:50:50.479 4 Reusing old log /home/emhyr/.config/thorium/Default/Local Storage/leveldb/000003.log 
+2024/06/12-22:59:27.559 6 Level-0 table #5: started
+2024/06/12-22:59:27.567 6 Level-0 table #5: 193635 bytes OK
+2024/06/12-22:59:27.570 6 Delete type=0 #3
+2024/06/12-23:06:54.675 6 Level-0 table #7: started
+2024/06/12-23:06:54.692 6 Level-0 table #7: 543849 bytes OK
+2024/06/12-23:06:54.695 6 Delete type=0 #4
+2024/06/12-23:15:12.566 6 Level-0 table #9: started
+2024/06/12-23:15:12.571 6 Level-0 table #9: 53458 bytes OK
+2024/06/12-23:15:12.575 6 Delete type=0 #6
