@@ -1,0 +1,1 @@
+bro why when a user does `cp -rf foo bar`, it copies the entire fucking directory recursively, but not in a fucking script!!!

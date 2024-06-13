@@ -1,8 +1,11 @@
 #!/bin/bash
 
-shopt -s dotglob
-for f in [!setup-home]*
+for f in * .*
 do
-  echo Copying $f as ~/$f
-  cp -rf $f ~/$f
+  if [[ "$f" != 'setup-home' && "$f" != '.git' ]]
+  then
+    n=~/$f
+    echo Copying $f as $n
+    cp -rf $f $n
+  fi
 done

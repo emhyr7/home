@@ -1,5 +1,0 @@
-2024/06/12-23:16:48.569 1158 Creating DB /home/emhyr/.config/WebCord/Local Storage/leveldb since it was missing.
-2024/06/12-23:16:48.578 1158 Reusing MANIFEST /home/emhyr/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
-2024/06/12-23:19:50.515 1159 Level-0 table #5: started
-2024/06/12-23:19:50.520 1159 Level-0 table #5: 50963 bytes OK
-2024/06/12-23:19:50.523 1159 Delete type=0 #3
