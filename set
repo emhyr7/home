@@ -5,7 +5,7 @@ do
   if [[ "$f" != 'setup-home' && "$f" != '.git' ]]
   then
     n=~/$f
-    echo Copying $f as $n
+    echo Copying $f as $n...
     cp -rf $f $n
   fi
 done

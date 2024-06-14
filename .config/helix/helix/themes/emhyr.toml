@@ -1,0 +1,22 @@
+'string'      = 'green'
+'keyword'     = 'magenta'
+'operator'    = 'magenta'
+'punctuation' = 'magenta'
+'comment'     = 'bright_black'
+
+'ui.selection' = {bg = 'bright_black'}
+'ui.statusline' = {bg = 'bright_black'}
+
+'error'      = 'red'
+'warning'    = 'yellow'
+'info'       = 'green'
+'diagnostic' = {underline = {style = 'line'}}
+
+[palette]
+white        = '#d8d8d8' # default text
+black        = '#282828' # UI elements
+magenta      = '#ba8baf' # non-user written text (sometimes i may misspell 'case')
+bright_black = '#585858' # comments and UI
+green        = '#a1b56c' # strings and comments
+red          = '#ab4642' # errors
+yellow       = '#f7ca88' # warnings

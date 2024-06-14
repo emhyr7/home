@@ -1,0 +1,12 @@
+#!/bin/bash
+
+fs=(bin .config/mako .config/foot .config/helix .config/sway .bash_profile .bashrc .config/user-dirs.dirs .config/electron25-flags.conf)
+
+for f in ${fs[@]}
+do
+  n=$f
+  f=~/$f
+  d=$(dirname $f)
+  echo Copying $f as $n...
+  mkdir -p $d && cp -rf $f $n
+done
