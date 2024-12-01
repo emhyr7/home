@@ -1,0 +1,78 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+	"git": {
+		"inline_blame": {
+			"enabled": false
+		}
+	},
+	"features": {
+		"inline_completion_provider": "none"
+	},
+	"project_panel": {
+		"dock": "right"
+	},
+	"autosave": "off",
+	"auto_update": false,
+	"buffer_font_family": "IBM Plex Mono",
+	"buffer_font_size": 16,
+	"buffer_line_height": "standard",
+	"toolbar": {
+		"quick_actions": false
+	},
+	"ensure_final_newline_on_save": false,
+	"lsp": {},
+	"format_on_save": "off",
+	"hard_tabs": true,
+	"inlay_hints": {
+		"enabled": false
+	},
+	"languages": {
+		"C++": {
+			"hard_tabs": true,
+			"tab_size": 4,
+			"enable_language_server": false
+		},
+		"C": {
+			"hard_tabs": true,
+			"tab_size": 4,
+			"enable_language_server": false
+		},
+		"Rust": {
+			"enable_language_server": false
+		},
+		"JSON": {
+			"enable_language_server": true
+		}
+	},
+	"search": {
+		"regex": true
+	},
+	"telemetry": {
+		"diagnostics": false,
+		"metrics": false
+	},
+	"theme": {
+		"mode": "dark",
+		"light": "One Light",
+		"dark": "Emhyr"
+	},
+	"vim_mode": true,
+	"auto_fold_dirs": false,
+	"scrollbar": {
+		"show": "never"
+	},
+	"gutter": {
+		"line_numbers": false,
+		"folds": false,
+		"code_actions": false
+	},
+	"ui_font_family": "IBM Plex Sans",
+	"ui_font_size": 16
+}
